@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# ZER0 TW0
+#### *Anime, Roleplay, Ranks, Clans, Music, Economy and many more!*
 
-You can use the [editor on GitHub](https://github.com/RissyPuffs/ZeroTwo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Discord.js](https://github.com/Rapptz/discord.py) | [Discord Server](https://discord.gg/3J2JAFk)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zero Two is a bot developed, maintained and hosted by CAF Clan as a project made for fun. The bot is only available towards allies whom use the bot itself. The bot runs on `Discord.js` and `Node.js`. Additional files are created using NPM and PYTHON.
 
-### Markdown
+Our aim is to make Discord Servers have the ability to have fun with roleplays, economy, ranks and such to change the route of each server. The bot most likely will not be published publicly and will only be shared amongst associates of CAF Clan. I am open to suggestions and ideas towards the BOT, I'd really like to hear you thoughts on what you'd like to see added within it itself, and I'll try my best to implement it!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Why was it created?
 
-```markdown
-Syntax highlighted code block
+When I first tried Discord, I was fully facinated on the bots which were being runned on servers, and so I wanted to try making one for myself, taking basic steps, one by one. Soon I had finally made a Successful bot which was called REM Bot, but I was not fully sastisfied, so I began developing more and more all basing on REM's original source code. It became a new hobby for me.
 
-# Header 1
-## Header 2
-### Header 3
+After which, my most successful bot would probably be the current bot which is in development, also known as Zero Two, a bot based on the character in Darling in the Franxx, also named Zero Two. The bot is still being developed to properly replicate such words and phrases as said in the series. And obviously, I would really like it to say "Darling" at the end of every command output.
 
-- Bulleted
-- List
+# What separates this bot from others?
 
-1. Numbered
-2. List
+This bot is designed to mix every single feature out there into just 1 BOT, right now I'm trying my best to compile everything together and pushing the file used to it's limit, I want to try my best to expand the size, and make sure everything works to standard.
 
-**Bold** and _Italic_ and `Code` text
+This bot features commands from others bots such as Music, Ticketing, Ranking, Slots, Roleplay, etc. I'm still working on adding more. A few examples are:
 
-[Link](url) and ![Image](src)
-```
+- Trivia (A lot of question topics to choose from, it even includes Clan quizzes from ZF, VF and CAF!)
+- Music (Easy YouTube and Soundcloud searches!)
+- Moderation Tools (Ban, Kick, Mute, Censor, Purge, Softban, Forceban)
+- Slot Machine (Easy to operate and play to earn yourself some money!)
+- Imgur (Search images easily and get 3 of those pictures right to you!)
+- Gif (Love gifs? Maybe for memes? Well now you can search for gifs easily!)
+- Ticketing (Send messages to your empress easily!)
+- And many more! More to come soon as well!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Join us!
 
-### Jekyll Themes
+Consider joining the heart of all this! The place where all my journey started, the place where I decided to develop a bot! The following community is a gaming clan focussing on all sorts of games, though I also post constant updates on how the bot is progressing there, so if you'd like constant updates on the bot's progress, feel free to join.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RissyPuffs/ZeroTwo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[CAF's Discord Server](https://discord.gg/3J2JAFk)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
