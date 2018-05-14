@@ -38,6 +38,6 @@ Consider joining the heart of all this! The place where all my journey started, 
 
 Zero Two is released under the [GNU GPL](https://github.com/RissyPuffs/ZeroTwo/blob/master/LICENSE) License.
 
-Zero Two's name was based off on a female lead character in "Darling in the Franxx", name rights go towards the animation creators, [Studio-Trigger](http://www.studio-trigger.com/jp/) and [A-1 Pictures](http://a1p.jp/japan/)
+Zero Two's name was based off on a female lead character in "Darling in the Franxx", name rights go towards the animation creators, [Studio-Trigger](http://www.studio-trigger.com/jp/) and [A-1 Pictures](http://a1p.jp/japan/).
 
 If there are any issues, feel free to contact me.
